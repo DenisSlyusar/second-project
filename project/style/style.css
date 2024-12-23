@@ -181,6 +181,7 @@ ol {
   width: 194px;
   height: 34px;
   color: white;
+  border: 1px solid white;
   background-color: #1b1919;
   grid-column-start: line5;
   grid-column-end: end;
@@ -193,7 +194,6 @@ ol {
   text-decoration-skip-ink: none;
   margin-top: 20px;
   cursor: pointer;
-  border: 1px solid white;
 }
 
 .search-form__submit-button:focus-visible{
