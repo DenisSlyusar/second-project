@@ -193,6 +193,7 @@ ol {
   text-decoration-skip-ink: none;
   margin-top: 20px;
   cursor: pointer;
+  border: 1px solid white;
 }
 
 .search-form__submit-button:focus-visible{
@@ -329,5 +330,6 @@ ol {
   text-decoration-skip-ink: none;
   height: 34px;
   width: 399px;
+  border: 1px solid white;
   cursor: pointer;
 }
